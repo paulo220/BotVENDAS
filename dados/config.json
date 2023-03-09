@@ -1,0 +1,110 @@
+{
+    "dono": {
+        "dono": "@vigaristatrampos",
+        "id_dono": "5494794233",
+        "suporte": "@vigaristatrampos",
+        "adm": [
+            5494794233
+        ],
+        "grupo": "-1001849323453",
+        "user_grupo": "@backupvigarista071828",
+        "backup": "-1001849323453",
+        "logger": "1849323453",
+        "user_store": "@VigaristaShopBot",
+        "spam": [
+            "",
+            "",
+            "",
+            "",
+            "-1001897190314"
+        ],
+        "db": "vpsvigarista",
+        "token_bot": "5719750840:AAHKP_BGWDOg9VwywDPvRzcti8wFsM9gCqY",
+        "token_teste": "5719750840:AAHKP_BGWDOg9VwywDPvRzcti8wFsM9gCqY",
+        "token_pix": "APP_USR-5968399073721068-102519-7e3cf74e89e8dd03718786a742a81442-798550615",
+        "chave_pix": "erickcarlos@gmail.com",
+        "banco_da_lara": "BANCO PICPAY",
+        "nome_da_lara": "Grace Aparecida"
+    },
+    "dados": {
+        "foto": "http://cdn.create.vista.com/api/media/medium/510341780/stock-photo-anonymus-thief-holding-credit-card?token=",
+        "foto1": "https://s25.aconvert.com/convert/p3r68-cdx67/nfcjk-6n2tb.mp4",
+        "pix": "OFF \u26a0\ufe0f",
+        "manual": "ON",
+        "vendas_cc": "ON",
+        "adc_material": "ON",
+        "saldo em dobro": "OFF \u26a0\ufe0f",
+        "checagem": 10,
+        "porcent_refer": 10,
+        "sender": "OFF",
+        "vip": "OFF",
+        "text": "OFF",
+        "photo": "OFF",
+        "id": "OFF"
+    },
+    "checker": {
+        "atual": "off",
+        "troca": "off",
+        "reserva": "off",
+        "jhon debitando": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon debitando gate 2": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon debitando gate 3": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "jhon pre auth": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1
+        },
+        "erede": {
+            "login": "87780674",
+            "senha": "1e91ec32700745ec8926ac46f124377f",
+            "token": "",
+            "expiracao": 1
+        },
+        "pagar.me": {
+            "login": "",
+            "senha": "",
+            "token": "ak_live_WrpGQitI2bYlH0KXxgU960o1qnNN2K",
+            "expiracao": 1
+        },
+        "azkaban pre auth": {
+            "login": "auth",
+            "senha": "senha",
+            "token": "",
+            "expiracao": 1
+        },
+        "allcenter pre auth": {
+            "login": "wick",
+            "senha": "infowick",
+            "token": "",
+            "expiracao": 1
+        },
+        "comandante pre auth": {
+            "login": "",
+            "senha": "",
+            "token": "",
+            "expiracao": 1644779264
+        },
+        "thzin debitando": {
+            "login": "",
+            "senha": "",
+            "token": ".eyJ1c2VyIjoid2ljayIsIm5hbWUiOiJKaG9uIFdpY2siLCJpYXQiOjE2NDQ3NzkyNjUsImV4cCI6MTY0NDg2NTY2NX0.la2CY5a7vrN2TFcVmmTBaUP7aDirBOxiLPCBuTZDrZM",
+            "expiracao": 0
+        }
+    }
+}

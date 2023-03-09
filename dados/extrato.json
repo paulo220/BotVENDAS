@@ -1,0 +1,26 @@
+{
+    "09/12/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 20,
+        "vendas": 1,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "10/12/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 75,
+        "vendas": 3,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    },
+    "11/12/2022": {
+        "entrada_pix_rs": 0,
+        "entrada_gift_rs": 0,
+        "vendas_rs": 0,
+        "vendas": 0,
+        "reembolsos_rs": 0,
+        "reembolsos": 0
+    }
+}
